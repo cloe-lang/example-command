@@ -1,2 +1,7 @@
-# example-command
-Example command in Cloe programming language
+# Examples
+
+Example projects in Cloe programming language.
+
+## License
+
+[The Unlicense](UNLICENSE)
